@@ -19,7 +19,7 @@ Please make sure to update tests as appropriate.
 There's not much to install so far all you need to install is Beautifulsoup.
 
 ```bash
-pip install beautifulsoup4
+pip install selenium
 ```
 
 
